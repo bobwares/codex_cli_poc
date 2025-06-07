@@ -1,9 +1,9 @@
 # App: Streamlit App
 # Package: root
 # File: Makefile
-# Version: 0.0.5
+# Version: 0.0.7
 # Author: Bobwares
-# Date: 2025-06-07 22:22:00 UTC
+# Date: 2025-06-07 22:46:19 UTC
 # Description: CLI commands for development.
 #
 
@@ -12,12 +12,12 @@ venv:
 	python3 -m venv venv
 	. venv/bin/activate && pip install -r requirements.txt
 
-install:
-	pip install -r requirements.txt
+install: venv
+	. venv/bin/activate && pip install -r requirements.txt
 
-run:
-	streamlit run src/app.py
+run: venv
+	. venv/bin/activate && streamlit run src/app.py
 
-test:
-	pytest -q
+test: venv
+	. venv/bin/activate && pytest -q
 
