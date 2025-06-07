@@ -1,1 +1,6 @@
+# requirements.txt
+# Version: 0.0.1
+# Description: Dependencies for project with tests in separate directory
+
 streamlit
+pytest==8.2.0
