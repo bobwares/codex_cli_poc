@@ -20,3 +20,10 @@
 - Changed virtual environment directory to `venv`.
 - Updated Makefile and README to match.
 - Updated `.gitignore` accordingly.
+
+## 0.0.6 - 2025-06-07
+- Enhanced Makefile to activate the virtual environment automatically when running
+  the application and tests.
+
+## 0.0.7 - 2025-06-07
+- Updated the install target to also activate the virtual environment.
