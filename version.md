@@ -7,3 +7,6 @@
 - Reorganized project into recommended structure.
 - Added metadata headers to files.
 - Added unit tests and sample HTTP test.
+
+## 0.0.3 - 2025-06-07
+- Added Makefile with CLI helper commands.

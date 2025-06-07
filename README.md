@@ -9,3 +9,11 @@ To run the Streamlit hello world app:
 pip install -r requirements.txt
 streamlit run src/app.py
 ```
+
+Alternatively, use the Makefile helpers:
+
+```bash
+make install
+make run
+make test
+```
