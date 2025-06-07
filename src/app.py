@@ -1,9 +1,9 @@
 # App: Streamlit App
 # Package: src
 # File: app.py
-# Version: 0.0.2
+# Version: 0.0.8
 # Author: Bobwares
-# Date: 2025-06-07 21:46:09 UTC
+# Date: 2025-06-07 23:04:35 UTC
 # Description: Entry point for the Streamlit application.
 #
 
@@ -12,6 +12,7 @@ import streamlit as st
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
+
 
 def main() -> None:
     """Run the Streamlit application."""
