@@ -62,9 +62,6 @@ App Name: Streamlit App
 
 IntelliJ IDEA 2023.3.2 (Ultimate Edition)
 Build #IU-233.13135.103, built on December 19, 2023
-Licensed to Lauren Adelmann
-Subscription is active until May 1, 2026.
-For educational use only.
 Runtime version: 17.0.9+7-b1087.9 x86_64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 macOS 14.5
@@ -108,13 +105,15 @@ Kotlin: 233.13135.103-IJ
     #
     ```
 
+### version.md
+- create file version.md with updated version number and list of changes. Include date and time of change.
 - start version at 0.0.1
-- Update version each time the code is updated.
-- Update only code or configuration files that have changed.
-- create file version.md with updated version number and list of changes.
-    - Include date and time of change.
+  - Update version each time the code is updated.
+  - Update only code or configuration files that have changed.
+
+### Coding Rules
 - follow code formatting standards:
-    - Python: PEP 8: E303 too many blank lines (2)
+  - Python: PEP 8: E303 too many blank lines (2)
 
 ### Tests
 
