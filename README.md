@@ -9,3 +9,12 @@ To run the Streamlit hello world app:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Running Tests
+
+The project keeps source code under `src/` and tests in `tests/`. Use
+`PYTHONPATH=./src` when executing `pytest`:
+
+```bash
+PYTHONPATH=./src pytest tests/
+```
