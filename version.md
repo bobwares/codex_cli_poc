@@ -27,3 +27,7 @@
 
 ## 0.0.7 - 2025-06-07
 - Updated the install target to also activate the virtual environment.
+
+## 0.0.8 - 2025-06-07 23:08 UTC - work
+- Enforced PEP 8 E302 compliance in app.py.
+- Documented PEP 8 requirements in AGENTS.md.

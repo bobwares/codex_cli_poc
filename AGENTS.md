@@ -112,7 +112,8 @@ Kotlin: 233.13135.103-IJ
   - Update only code or configuration files that have changed.
 
 ### Coding Rules
-- follow code formatting standards:
+- Follow PEP 8 code formatting standards:
+  - Python: PEP 8: E302 two blank lines before top-level definitions
   - Python: PEP 8: E303 too many blank lines (2)
 
 ### Tests
