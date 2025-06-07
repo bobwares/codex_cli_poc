@@ -10,3 +10,8 @@
 
 ## 0.0.3 - 2025-06-07
 - Added Makefile with CLI helper commands.
+
+## 0.0.4 - 2025-06-07
+- Added venv target to Makefile for virtual environment management.
+- Documented virtual environment usage in README.
+- Ignored `.venv/` directory.

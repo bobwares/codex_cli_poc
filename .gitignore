@@ -1,7 +1,7 @@
 # App: Streamlit App
 # Package: root
 # File: .gitignore
-# Version: 0.0.2
+# Version: 0.0.3
 # Author: Bobwares
 # Date: 2025-06-07 21:46:09 UTC
 # Description: Git ignore file.
@@ -9,3 +9,4 @@
 __pycache__/
 *.pyc
 .env
+.venv/
