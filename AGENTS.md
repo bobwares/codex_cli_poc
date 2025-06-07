@@ -58,6 +58,39 @@ App Name: Streamlit App
   * `README.md`
   * `.gitignore`
 
+## IDE
+
+IntelliJ IDEA 2023.3.2 (Ultimate Edition)
+Build #IU-233.13135.103, built on December 19, 2023
+Licensed to Lauren Adelmann
+Subscription is active until May 1, 2026.
+For educational use only.
+Runtime version: 17.0.9+7-b1087.9 x86_64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+macOS 14.5
+GC: G1 Young Generation, G1 Old Generation
+Memory: 8192M
+Cores: 12
+Metal Rendering is ON
+Registry:
+  debugger.new.tool.window.layout=true
+  ide.experimental.ui=true
+Non-Bundled Plugins:
+  com.jetbrains.plugins.ini4idea (233.13135.116)
+  color.scheme.PyDarcula (1.1)
+  org.intellij.plugins.hcl (233.13135.65)
+  name.kropp.intellij.makefile (233.13135.65)
+  Show As ... (1.0.3)
+  com.github.dinbtechit.jetbrainsnestjs (0.0.2)
+  org.asciidoctor.intellij.asciidoc (0.41.2)
+  Pythonid (233.13135.103)
+  net.ashald.envfile (3.4.1)
+  com.koxudaxi.pydantic (0.4.14)
+  intellij.jupyter (233.13135.103)
+  aws.toolkit (2.2-233)
+  dev.nx.console (1.32.4)
+Kotlin: 233.13135.103-IJ
+
 
 ## AI Prompt Context Instructions
 
