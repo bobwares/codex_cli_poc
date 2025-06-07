@@ -1,10 +1,11 @@
 # App: Streamlit App
 # Package: root
-# File: requirements.txt
+# File: .gitignore
 # Version: 0.0.2
 # Author: Bobwares
 # Date: 2025-06-07 21:46:09 UTC
-# Description: Python dependencies for the project.
+# Description: Git ignore file.
 #
-
-streamlit
+__pycache__/
+*.pyc
+.env
