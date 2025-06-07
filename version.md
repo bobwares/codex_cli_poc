@@ -15,3 +15,8 @@
 - Added venv target to Makefile for virtual environment management.
 - Documented virtual environment usage in README.
 - Ignored `.venv/` directory.
+
+## 0.0.5 - 2025-06-07
+- Changed virtual environment directory to `venv`.
+- Updated Makefile and README to match.
+- Updated `.gitignore` accordingly.
